@@ -37,6 +37,7 @@ streamlit run app.py
 - RELIANCE.NS (India)
 
 📸 Screenshots
+
 <img width="823" height="783" alt="Real time stock dashboard screenshot 1" src="https://github.com/user-attachments/assets/dae4bc59-df45-48c9-8fe9-ae92b43b6d18" />
 <img width="797" height="493" alt="Real time stock dashboard screenshot 2" src="https://github.com/user-attachments/assets/68e8a841-f1dc-4b3d-ae69-f34a72b8899d" />
 <img width="817" height="596" alt="Real time stock dashboard screenshot 3" src="https://github.com/user-attachments/assets/5ea4fbb7-00a0-4779-a4a4-b2f1a99085f8" />
